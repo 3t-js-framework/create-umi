@@ -1,6 +1,6 @@
 {
   "name": "create-umi-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
     "create-umi": "cli.js"
