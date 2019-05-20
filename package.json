@@ -1,5 +1,5 @@
 {
-  "name": "create-umi",
+  "name": "create-umi-next",
   "version": "0.12.2",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
@@ -27,14 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/create-umi"
-  },
-  "homepage": "https://github.com/umijs/create-umi",
-  "authors": [
-    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
-  ],
-  "bugs": {
-    "url": "https://github.com/umijs/create-umi/issues"
+    "url": "https://github.com/3t-js-framework/create-umi"
   },
   "files": [
     "cli.js",
